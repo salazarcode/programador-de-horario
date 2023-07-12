@@ -1,0 +1,12 @@
+C:\Users\MSI\source\repos\Programador\Tools\bin\Debug\net60\Tools.deps.json
+C:\Users\MSI\source\repos\Programador\Tools\bin\Debug\net60\Tools.dll
+C:\Users\MSI\source\repos\Programador\Tools\bin\Debug\net60\Tools.pdb
+C:\Users\MSI\source\repos\Programador\Tools\obj\Debug\net60\Tools.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\Programador\Tools\obj\Debug\net60\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\Programador\Tools\obj\Debug\net60\Tools.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\Programador\Tools\obj\Debug\net60\Tools.AssemblyInfo.cs
+C:\Users\MSI\source\repos\Programador\Tools\obj\Debug\net60\Tools.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\Programador\Tools\obj\Debug\net60\Tools.dll
+C:\Users\MSI\source\repos\Programador\Tools\obj\Debug\net60\refint\Tools.dll
+C:\Users\MSI\source\repos\Programador\Tools\obj\Debug\net60\Tools.pdb
+C:\Users\MSI\source\repos\Programador\Tools\obj\Debug\net60\ref\Tools.dll

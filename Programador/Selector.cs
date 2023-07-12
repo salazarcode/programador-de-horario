@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
+﻿using Autofac;
+using Domain.Contracts.Repositories;
 using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
 
 namespace Programador
 {
@@ -15,9 +9,12 @@ namespace Programador
 		private readonly DataTable dt;
 		private readonly bool semanal = true;
 		private readonly IContainer _container;
+		private readonly IScheduleRepository scheduleRepository;
 		public Selector(IContainer container)
 		{
 			_container = container;
+			scheduleRepository = _container.Resolve<IScheduleRepository>();
+			var schedues = scheduleRepository.Get().ToList();
 			InitializeComponent();
 
 			dt = new DataTable();

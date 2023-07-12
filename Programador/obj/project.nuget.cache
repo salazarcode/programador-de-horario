@@ -1,18 +1,38 @@
 {
   "version": 2,
-  "dgSpecHash": "/NA7vWOHqtQgAjTmroMXFDNH0aF9EgFPqmpqHkfmMox+K9wEv8Ft+Lai+6GwqEcD1XeMmJXBpdFUeXCl6tcjnQ==",
+  "dgSpecHash": "4vcaiArbdLtw8OgAd83GjNAAzmx/RuzEjtUEK83zn4EDpRP/aJTcvTug0fy+cHZCcsKUYr/U/iKkke5LI6QJNw==",
   "success": true,
   "projectFilePath": "C:\\Users\\MSI\\source\\repos\\Programador\\Programador\\Programador.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MSI\\.nuget\\packages\\autofac\\7.0.1\\autofac.7.0.1.nupkg.sha512",
-    "C:\\Users\\MSI\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+    "C:\\Users\\MSI\\.nuget\\packages\\autofac.configuration\\6.0.0\\autofac.configuration.6.0.0.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.0-preview.6.23329.4\\microsoft.data.sqlite.core.8.0.0-preview.6.23329.4.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0-preview.6.23329.4\\microsoft.entityframeworkcore.8.0.0-preview.6.23329.4.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.0-preview.6.23329.4\\microsoft.entityframeworkcore.abstractions.8.0.0-preview.6.23329.4.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.0-preview.6.23329.4\\microsoft.entityframeworkcore.analyzers.8.0.0-preview.6.23329.4.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.0-preview.6.23329.4\\microsoft.entityframeworkcore.relational.8.0.0-preview.6.23329.4.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\8.0.0-preview.6.23329.4\\microsoft.entityframeworkcore.sqlite.8.0.0-preview.6.23329.4.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\8.0.0-preview.6.23329.4\\microsoft.entityframeworkcore.sqlite.core.8.0.0-preview.6.23329.4.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0-preview.6.23329.7\\microsoft.extensions.caching.abstractions.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0-preview.6.23329.7\\microsoft.extensions.caching.memory.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.extensions.configuration\\2.2.0\\microsoft.extensions.configuration.2.2.0.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0-preview.6.23329.7\\microsoft.extensions.configuration.abstractions.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.2.0\\microsoft.extensions.configuration.binder.2.2.0.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0-preview.6.23329.7\\microsoft.extensions.dependencyinjection.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0-preview.6.23329.7\\microsoft.extensions.dependencyinjection.abstractions.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.extensions.dependencymodel\\8.0.0-preview.6.23329.7\\microsoft.extensions.dependencymodel.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0-preview.6.23329.7\\microsoft.extensions.logging.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0-preview.6.23329.7\\microsoft.extensions.logging.abstractions.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.extensions.options\\8.0.0-preview.6.23329.7\\microsoft.extensions.options.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0-preview.6.23329.7\\microsoft.extensions.primitives.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.5\\sqlitepclraw.bundle_e_sqlite3.2.1.5.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\sqlitepclraw.core\\2.1.5\\sqlitepclraw.core.2.1.5.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.5\\sqlitepclraw.lib.e_sqlite3.2.1.5.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.5\\sqlitepclraw.provider.e_sqlite3.2.1.5.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\system.text.encodings.web\\8.0.0-preview.6.23329.7\\system.text.encodings.web.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\system.text.json\\8.0.0-preview.6.23329.7\\system.text.json.8.0.0-preview.6.23329.7.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.connectlabs.local/nuget/NuGet'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  "logs": []
 }

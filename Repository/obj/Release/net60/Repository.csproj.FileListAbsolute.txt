@@ -1,0 +1,17 @@
+C:\Users\MSI\source\repos\Programador\Repository\bin\Release\net60\Repository.deps.json
+C:\Users\MSI\source\repos\Programador\Repository\bin\Release\net60\Repository.runtimeconfig.json
+C:\Users\MSI\source\repos\Programador\Repository\bin\Release\net60\Repository.dll
+C:\Users\MSI\source\repos\Programador\Repository\bin\Release\net60\Repository.pdb
+C:\Users\MSI\source\repos\Programador\Repository\bin\Release\net60\Domain.dll
+C:\Users\MSI\source\repos\Programador\Repository\bin\Release\net60\Domain.pdb
+C:\Users\MSI\source\repos\Programador\Repository\obj\Release\net60\Repository.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\Programador\Repository\obj\Release\net60\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\Programador\Repository\obj\Release\net60\Repository.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\Programador\Repository\obj\Release\net60\Repository.AssemblyInfo.cs
+C:\Users\MSI\source\repos\Programador\Repository\obj\Release\net60\Repository.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\Programador\Repository\obj\Release\net60\Repository.csproj.CopyComplete
+C:\Users\MSI\source\repos\Programador\Repository\obj\Release\net60\Repository.dll
+C:\Users\MSI\source\repos\Programador\Repository\obj\Release\net60\refint\Repository.dll
+C:\Users\MSI\source\repos\Programador\Repository\obj\Release\net60\Repository.pdb
+C:\Users\MSI\source\repos\Programador\Repository\obj\Release\net60\Repository.genruntimeconfig.cache
+C:\Users\MSI\source\repos\Programador\Repository\obj\Release\net60\ref\Repository.dll

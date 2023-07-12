@@ -1,5 +1,4 @@
 using Programador.IOC;
-using System.Globalization;
 
 namespace Programador
 {
