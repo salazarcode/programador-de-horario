@@ -1,4 +1,5 @@
-﻿using Domain.Entities;
+﻿using Domain.Contracts.Repositories.Abstract;
+using Domain.Entities;
 
 namespace Domain.Contracts.Repositories
 {

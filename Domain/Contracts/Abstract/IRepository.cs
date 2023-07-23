@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Domain.Contracts.Repositories
+namespace Domain.Contracts.Repositories.Abstract
 {
 	public interface IRepository<TEntity> where TEntity : class
 	{

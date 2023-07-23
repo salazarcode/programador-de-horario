@@ -1,6 +1,7 @@
 ﻿using Autofac;
 using Domain.Contracts.Repositories;
 using System.Data;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Programador
 {
@@ -23,21 +24,7 @@ namespace Programador
 
 		private void Selector_Load(object sender, EventArgs e)
 		{
-			var hoy = dateTimePicker1.Value;
-
-			var dias = semanal ? ObtenerDiasSemana(hoy) : ObtenerDiasMes(hoy);
-
-			dt.Columns.Add("Concepto", typeof(string));
-
-			for (int i = 1; i <= dias.Length; i++)
-			{
-				dt.Columns.Add(dias[i - 1].ToString("dddd").ToUpper().Substring(0, 3) + " " + dias[i - 1].ToString("dd"), typeof(bool));
-			}
-
-			dt.Rows.Add("Quirofano 1");
-			dt.Rows.Add("Quirofano 2");
-
-			dataGridView1.DataSource = dt;
+			dataGridView1.DataSource = RenderDataTable(dateTimePicker1.Value, semanal);
 		}
 
 		private DataTable RenderDataTable(DateTime date, bool IsWeekly = true)
@@ -52,8 +39,9 @@ namespace Programador
 
 			for (int i = 1; i <= dias.Length; i++)
 			{
-				var day = 
-				res.Columns.Add(dias[i - 1].ToString("dddd").ToUpper().Substring(0, 3) + " " + dias[i - 1].ToString("dd"), typeof(bool));
+				var dayString = dias[i - 1].ToString("dddd").ToUpper().Substring(0, 3);
+				var dayDigits = dias[i - 1].ToString("dd");
+				res.Columns.Add($"{dayString}  {dayDigits}");
 			}
 
 			return res;

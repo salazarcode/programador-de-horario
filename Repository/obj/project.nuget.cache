@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "h5b5D+Lg56iQIKIelr6KFBBIPLIh7yPJ/MH9zhLAg7sxvvLBsB4kg+KRyDP53QJ+dLx4OsH5wO6ekusaxR00Pw==",
+  "dgSpecHash": "qZvM5/8EqUrtzHetGF0QTuDxZobVHNM1Wp3CarI6wImsI9h2hfX4zSbcHpYFBN41Zfrz3I+E7BJpfkY0KIlpFg==",
   "success": true,
   "projectFilePath": "C:\\Users\\MSI\\source\\repos\\Programador\\Repository\\Repository.csproj",
   "expectedPackageFiles": [
@@ -36,5 +36,12 @@
     "C:\\Users\\MSI\\.nuget\\packages\\system.text.encodings.web\\8.0.0-preview.6.23329.7\\system.text.encodings.web.8.0.0-preview.6.23329.7.nupkg.sha512",
     "C:\\Users\\MSI\\.nuget\\packages\\system.text.json\\8.0.0-preview.6.23329.7\\system.text.json.8.0.0-preview.6.23329.7.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.connectlabs.local/nuget/NuGet'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }

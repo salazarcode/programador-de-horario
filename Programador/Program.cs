@@ -13,7 +13,7 @@ namespace Programador
 			var container = ControlInversion.ConfigureContainer();
 
 			ApplicationConfiguration.Initialize();
-			var initialForm = new Selector(container);
+			var initialForm = new MainForm(container);
 			Application.Run(initialForm);
 		}
 	}
